@@ -33,7 +33,7 @@ $$
 \end{aligned}
 $$
 
-  Thus $(\alpha\beta)\lambda = \alpha(\beta\lambda).$
+    Thus $(\alpha\beta)\lambda = \alpha(\beta\lambda).$
 
 4. Show that $\lambda(\alpha + \beta) = \lambda\alpha + \lambda\beta$ for all $\lambda, \alpha, \beta \in \mathbb{C}$.  
 **Solution:** $\alpha, \beta, \lambda \in \mathbb{C}$, let $\alpha = a+bi,\ \beta = c+di,\ \lambda = e+fi$.
