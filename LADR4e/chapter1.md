@@ -1,12 +1,12 @@
 ## Chapter 1: Vectors
 ### Exercises 1A
 
-1. Show that $\alpha + \beta = \beta + \alpha$ for all $\alpha, \beta \in \mathbb{C}$. <br/>
-  Given $\alpha, \beta \in \mathbb{C}$, let $\alpha = a+bi,\ \beta = c+di$.
+1. Show that $\alpha + \beta = \beta + \alpha$ for all $\alpha, \beta \in \mathbb{C}$.  
+**Solution:** Given $\alpha, \beta \in \mathbb{C}$, let $\alpha = a+bi,\ \beta = c+di$.\
   $\alpha+\beta = (a+c)+(b+d)i = (c+a)+(d+b)i = \beta+\alpha.$
 
-2. Show that $(\alpha + \beta) + \lambda = \alpha + (\beta + \lambda)$ for all $\alpha, \beta, \lambda \in \mathbb{C}$. <br/>
-  Given $\alpha, \beta, \lambda \in \mathbb{C}$, let $\alpha = a+bi,\ \beta = c+di,\ \lambda = e+fi$.
+2. Show that $(\alpha + \beta) + \lambda = \alpha + (\beta + \lambda)$ for all $\alpha, \beta, \lambda \in \mathbb{C}$.  
+**Solution:** Given $\alpha, \beta, \lambda \in \mathbb{C}$, let $\alpha = a+bi,\ \beta = c+di,\ \lambda = e+fi$.
 
 $$
 \begin{aligned}
@@ -19,8 +19,8 @@ $$
 \end{aligned}
 $$
 
-3. Show that $(\alpha\beta)\lambda = \alpha(\beta\lambda)$ for all $\alpha, \beta, \lambda \in \mathbb{C}$. <br/>
-$\alpha, \beta, \lambda \in \mathbb{C}$, let $\alpha = a+bi,\ \beta = c+di,\ \lambda = e+fi$.
+3. Show that $(\alpha\beta)\lambda = \alpha(\beta\lambda)$ for all $\alpha, \beta, \lambda \in \mathbb{C}$.  
+**Solution:** $\alpha, \beta, \lambda \in \mathbb{C}$, let $\alpha = a+bi,\ \beta = c+di,\ \lambda = e+fi$.
 
 $$
 \begin{aligned}
@@ -33,10 +33,10 @@ $$
 \end{aligned}
 $$
 
-Thus $(\alpha\beta)\lambda = \alpha(\beta\lambda).$
+  Thus $(\alpha\beta)\lambda = \alpha(\beta\lambda).$
 
-4. Show that $\lambda(\alpha + \beta) = \lambda\alpha + \lambda\beta$ for all $\lambda, \alpha, \beta \in \mathbb{C}$. <br/>
-$\alpha, \beta, \lambda \in \mathbb{C}$, let $\alpha = a+bi,\ \beta = c+di,\ \lambda = e+fi$.
+4. Show that $\lambda(\alpha + \beta) = \lambda\alpha + \lambda\beta$ for all $\lambda, \alpha, \beta \in \mathbb{C}$.  
+**Solution:** $\alpha, \beta, \lambda \in \mathbb{C}$, let $\alpha = a+bi,\ \beta = c+di,\ \lambda = e+fi$.
 
 $$
 \begin{aligned}
@@ -78,10 +78,3 @@ $$
 $$
 
 
-**1.** 
-
-**2.** 
-
-**3.** 
-
-**4.** 
